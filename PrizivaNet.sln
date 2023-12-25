@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrizivaNet", "PrizivaNet\PrizivaNet.csproj", "{4E1DD3F3-980C-4581-9398-62365CFC2C10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrizivaNetTest", "PrizivaNetTest\PrizivaNetTest.csproj", "{52D11129-9669-487B-A36E-D317DC916FB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E1DD3F3-980C-4581-9398-62365CFC2C10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E1DD3F3-980C-4581-9398-62365CFC2C10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E1DD3F3-980C-4581-9398-62365CFC2C10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E1DD3F3-980C-4581-9398-62365CFC2C10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52D11129-9669-487B-A36E-D317DC916FB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D11129-9669-487B-A36E-D317DC916FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D11129-9669-487B-A36E-D317DC916FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D11129-9669-487B-A36E-D317DC916FB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F005CC5-32EF-4DDE-A614-F1D68290C850}
+	EndGlobalSection
+EndGlobal
